@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yafet
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning full-stack development
 - 📫 How to reach me ... yafetesfaye11@gmail.com
 - 😄 Pronouns: ...
 
