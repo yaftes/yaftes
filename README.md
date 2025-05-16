@@ -25,7 +25,7 @@ Currently sharpening my skills in building modern, scalable, and clean apps.
 
 ## 📫 Contact Me
 - 📧 Email: [yafetesfaye11@gmail.com](mailto:yafetesfaye11@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yafet-tesfaye](https://linkedin.com/in/yafet-tesfaye) **
+- 🔗 LinkedIn: [linkedin.com/in/yafet-tesfaye](https://www.linkedin.com/in/yafet-tesfaye-41b45627a/) **
 
 ---
 
