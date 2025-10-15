@@ -6,7 +6,6 @@
 
 ## 🌟 About Me
 Hi! I'm **Yafet Tesfaye**, a passionate **Flutter & Dart developer** building elegant and efficient mobile applications.  
-I enjoy exploring **blockchain tech**, **supply chain systems**, and **event management solutions**. My goal is to become a **Fullstack Mobile Engineer** with a focus on **clean architecture, APIs, and UI/UX excellence**.  
 
 - 📱 Mobile Developer | Flutter & Dart  
 - 🔗 Exploring Blockchain & Supply Chain Systems  
@@ -68,4 +67,3 @@ I enjoy exploring **blockchain tech**, **supply chain systems**, and **event man
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – **Cory House**
-
