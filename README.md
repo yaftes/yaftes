@@ -30,7 +30,6 @@ Hi! I'm **Yafet Tesfaye**, a passionate **Flutter & Dart developer** building el
 ## 📊 GitHub Stats
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=yaftes&show_icons=true&theme=radical&hide_rank=true" alt="Yafet's GitHub Stats" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=yaftes&theme=radical" alt="GitHub Streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaftes&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
