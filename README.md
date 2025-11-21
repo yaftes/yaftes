@@ -1,9 +1,6 @@
 <h2 align="left">Hi 👋! My I'm Yafet |  Full-Stack Engineer </h2>
 
 
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
